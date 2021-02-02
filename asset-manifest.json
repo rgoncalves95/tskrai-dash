@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tskrai-dash/static/css/main.02020f5c.chunk.css",
+    "main.js": "/tskrai-dash/static/js/main.c672d637.chunk.js",
+    "main.js.map": "/tskrai-dash/static/js/main.c672d637.chunk.js.map",
+    "runtime-main.js": "/tskrai-dash/static/js/runtime-main.04210078.js",
+    "runtime-main.js.map": "/tskrai-dash/static/js/runtime-main.04210078.js.map",
+    "static/js/2.fd99b86e.chunk.js": "/tskrai-dash/static/js/2.fd99b86e.chunk.js",
+    "static/js/2.fd99b86e.chunk.js.map": "/tskrai-dash/static/js/2.fd99b86e.chunk.js.map",
+    "static/js/3.99c54031.chunk.js": "/tskrai-dash/static/js/3.99c54031.chunk.js",
+    "static/js/3.99c54031.chunk.js.map": "/tskrai-dash/static/js/3.99c54031.chunk.js.map",
+    "index.html": "/tskrai-dash/index.html",
+    "static/css/main.02020f5c.chunk.css.map": "/tskrai-dash/static/css/main.02020f5c.chunk.css.map",
+    "static/js/2.fd99b86e.chunk.js.LICENSE.txt": "/tskrai-dash/static/js/2.fd99b86e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04210078.js",
+    "static/js/2.fd99b86e.chunk.js",
+    "static/css/main.02020f5c.chunk.css",
+    "static/js/main.c672d637.chunk.js"
+  ]
+}
