@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/tskrai-dash/static/css/main.8703223f.chunk.css",
-    "main.js": "/tskrai-dash/static/js/main.c203a1e5.chunk.js",
-    "main.js.map": "/tskrai-dash/static/js/main.c203a1e5.chunk.js.map",
-    "runtime-main.js": "/tskrai-dash/static/js/runtime-main.a91ca454.js",
-    "runtime-main.js.map": "/tskrai-dash/static/js/runtime-main.a91ca454.js.map",
-    "static/js/2.2e2415c0.chunk.js": "/tskrai-dash/static/js/2.2e2415c0.chunk.js",
-    "static/js/2.2e2415c0.chunk.js.map": "/tskrai-dash/static/js/2.2e2415c0.chunk.js.map",
-    "static/js/3.876fb619.chunk.js": "/tskrai-dash/static/js/3.876fb619.chunk.js",
-    "static/js/3.876fb619.chunk.js.map": "/tskrai-dash/static/js/3.876fb619.chunk.js.map",
+    "main.css": "/tskrai-dash/static/css/main.d0bda125.chunk.css",
+    "main.js": "/tskrai-dash/static/js/main.39099bf5.chunk.js",
+    "main.js.map": "/tskrai-dash/static/js/main.39099bf5.chunk.js.map",
+    "runtime-main.js": "/tskrai-dash/static/js/runtime-main.aa7e8950.js",
+    "runtime-main.js.map": "/tskrai-dash/static/js/runtime-main.aa7e8950.js.map",
+    "static/css/2.93ca0c39.chunk.css": "/tskrai-dash/static/css/2.93ca0c39.chunk.css",
+    "static/js/2.2e806176.chunk.js": "/tskrai-dash/static/js/2.2e806176.chunk.js",
+    "static/js/2.2e806176.chunk.js.map": "/tskrai-dash/static/js/2.2e806176.chunk.js.map",
+    "static/js/3.66f54066.chunk.js": "/tskrai-dash/static/js/3.66f54066.chunk.js",
+    "static/js/3.66f54066.chunk.js.map": "/tskrai-dash/static/js/3.66f54066.chunk.js.map",
     "index.html": "/tskrai-dash/index.html",
-    "static/css/main.8703223f.chunk.css.map": "/tskrai-dash/static/css/main.8703223f.chunk.css.map",
-    "static/js/2.2e2415c0.chunk.js.LICENSE.txt": "/tskrai-dash/static/js/2.2e2415c0.chunk.js.LICENSE.txt"
+    "static/css/2.93ca0c39.chunk.css.map": "/tskrai-dash/static/css/2.93ca0c39.chunk.css.map",
+    "static/css/main.d0bda125.chunk.css.map": "/tskrai-dash/static/css/main.d0bda125.chunk.css.map",
+    "static/js/2.2e806176.chunk.js.LICENSE.txt": "/tskrai-dash/static/js/2.2e806176.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a91ca454.js",
-    "static/js/2.2e2415c0.chunk.js",
-    "static/css/main.8703223f.chunk.css",
-    "static/js/main.c203a1e5.chunk.js"
+    "static/js/runtime-main.aa7e8950.js",
+    "static/css/2.93ca0c39.chunk.css",
+    "static/js/2.2e806176.chunk.js",
+    "static/css/main.d0bda125.chunk.css",
+    "static/js/main.39099bf5.chunk.js"
   ]
 }
