@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tskrai-dash/static/css/main.d0bda125.chunk.css",
-    "main.js": "/tskrai-dash/static/js/main.39099bf5.chunk.js",
-    "main.js.map": "/tskrai-dash/static/js/main.39099bf5.chunk.js.map",
+    "main.js": "/tskrai-dash/static/js/main.328b0c65.chunk.js",
+    "main.js.map": "/tskrai-dash/static/js/main.328b0c65.chunk.js.map",
     "runtime-main.js": "/tskrai-dash/static/js/runtime-main.aa7e8950.js",
     "runtime-main.js.map": "/tskrai-dash/static/js/runtime-main.aa7e8950.js.map",
     "static/css/2.93ca0c39.chunk.css": "/tskrai-dash/static/css/2.93ca0c39.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.93ca0c39.chunk.css",
     "static/js/2.2e806176.chunk.js",
     "static/css/main.d0bda125.chunk.css",
-    "static/js/main.39099bf5.chunk.js"
+    "static/js/main.328b0c65.chunk.js"
   ]
 }
